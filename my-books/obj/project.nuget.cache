@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "x9X26wHZqFSSJLMi+HnMUBY2lifPMD/8oAKxzqjd6klicCMhWCEg9XTZZPkRsFcCLtJYwpBLXsuHZ6rJZ2jVbA==",
+  "dgSpecHash": "8++Yz50Cp9jWs/4iW1qT1MOSQvK61MC+y1+Be0KryKNgrJNJwET76n+xNhsQbg0qDE7Rsk86o+Ta64ZRFWN9dA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\my-books\\my-books\\my-books.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,6 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.15\\microsoft.entityframeworkcore.design.5.0.15.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.15\\microsoft.entityframeworkcore.relational.5.0.15.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.15\\microsoft.entityframeworkcore.sqlserver.5.0.15.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.15\\microsoft.entityframeworkcore.tools.5.0.15.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
