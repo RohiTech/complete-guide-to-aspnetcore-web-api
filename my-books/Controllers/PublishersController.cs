@@ -16,11 +16,34 @@ namespace my_books.Controllers
             _publishersService = publishersService;
         }
 
-        [HttpPost("add-publisher")]
+        /*[HttpPost("add-publisher")]
         public IActionResult AddBook([FromBody] PublisherVM publisher)
         {
             _publishersService.AddPublisher(publisher);
             return Ok();
+        }*/
+
+        // HTTP Response Status Codes
+        [HttpPost("add-publisher")]
+        public IActionResult AddBook([FromBody] PublisherVM publisher)
+        {
+            var newPublisher = _publishersService.AddPublisher(publisher);
+            return Created(nameof(AddBook), newPublisher);
+        }
+
+        [HttpGet("get-publisher-by-id/{id}")]
+        public IActionResult GetPublisherById(int id)
+        {
+            var _response = _publishersService.GetPublisherById(id);
+
+            if(_response != null)
+            {
+                return Ok(_response);
+            }
+            else
+            {
+                return NotFound();
+            }
         }
 
         [HttpGet("get-publisher-books-with-authors/{id}")]
