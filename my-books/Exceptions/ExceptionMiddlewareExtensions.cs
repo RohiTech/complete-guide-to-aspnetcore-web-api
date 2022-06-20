@@ -34,5 +34,7 @@ namespace my_books.Exceptions
                 });
             });
         }
+
+        //public static void ConfigureCustomExceptionHandler()
     }
 }
