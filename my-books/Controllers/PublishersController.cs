@@ -27,6 +27,36 @@ namespace my_books.Controllers
             return Ok();
         }*/
 
+        /*[HttpGet("get-all-publishers")]
+        public IActionResult GetAllPublishers()
+        {
+            try
+            {
+                var _result = _publishersService.GetAllPublishers();
+
+                return Ok(_result);
+            }
+            catch(Exception e)
+            {
+                return BadRequest("Sorry, we could not load the publishers");
+            }
+        }*/
+
+        [HttpGet("get-all-publishers")]
+        public IActionResult GetAllPublishers(string sortBy)
+        {
+            try
+            {
+                var _result = _publishersService.GetAllPublishers(sortBy);
+
+                return Ok(_result);
+            }
+            catch (Exception e)
+            {
+                return BadRequest("Sorry, we could not load the publishers");
+            }
+        }
+
         // HTTP Response Status Codes
         [HttpPost("add-publisher")]
         public IActionResult AddPublisher([FromBody] PublisherVM publisher)
