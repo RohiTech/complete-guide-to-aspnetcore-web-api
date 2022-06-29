@@ -117,3 +117,4 @@ C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\refint\my-books.
 C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.pdb
 C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\ref\my-books.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
