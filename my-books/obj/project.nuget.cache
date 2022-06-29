@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IgzbceT3pQIwC9hpC6EP5yoZaViq3WwtpJRyrsKy1gg0C+zgC1mUE2xh97zRtgnQABVzYBKLKK8k0Rz6kx6vDg==",
+  "dgSpecHash": "UejQBOUF/Qx9sIF8cnytGFRfxctqV3Ug6v3AzF629DTLvMKOz5+HWkcffvMkZoHQGYWC2zGs16fXQcxwaEo3iA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\my-books\\my-books\\my-books.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
