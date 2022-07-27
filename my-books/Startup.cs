@@ -61,7 +61,7 @@ namespace my_books
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
             {
@@ -77,8 +77,8 @@ namespace my_books
             app.UseAuthorization();
 
             // Exception Handling
-            //app.ConfigureBuildInExceptionHandler();
-            app.ConfigureCustomExceptionHandler();
+            app.ConfigureBuildInExceptionHandler(loggerFactory);
+            //app.ConfigureCustomExceptionHandler();
 
             app.UseEndpoints(endpoints =>
             {
@@ -87,5 +87,33 @@ namespace my_books
 
             // AppDbInitializer.Seed(app);
         }
+
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        /*public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+                app.UseSwagger();
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "my_books v1"));
+            }
+
+            app.UseHttpsRedirection();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            // Exception Handling
+            app.ConfigureBuildInExceptionHandler();
+            //app.ConfigureCustomExceptionHandler();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
+
+            // AppDbInitializer.Seed(app);
+        }*/
     }
 }

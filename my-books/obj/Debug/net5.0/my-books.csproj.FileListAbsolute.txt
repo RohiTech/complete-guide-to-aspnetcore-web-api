@@ -134,3 +134,17 @@ C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.Deb
 C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.File.dll
 C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
 C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
+C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
