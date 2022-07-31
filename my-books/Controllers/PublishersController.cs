@@ -53,7 +53,7 @@ namespace my_books.Controllers
         [HttpGet("get-all-publishers")]
         public IActionResult GetAllPublishers(string sortBy, string searchString, int pageNumber)
         {
-            throw new Exception("This is an exception thrown from GetAllPublishers()");
+            // throw new Exception("This is an exception thrown from GetAllPublishers()");
 
             try
             {

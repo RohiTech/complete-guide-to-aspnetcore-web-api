@@ -1,0 +1,1 @@
+07/30/2022 22:57:03 -06:00 [Information] - Message: This is just a log in GetAllPublishers()
