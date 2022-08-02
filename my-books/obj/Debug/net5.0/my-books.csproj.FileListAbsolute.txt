@@ -147,3 +147,4 @@ C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.De
 C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.File.dll
 C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.MSSqlServer.dll
 C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\jfran\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.csproj.AssemblyReference.cache
