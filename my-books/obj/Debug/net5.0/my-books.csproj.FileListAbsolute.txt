@@ -118,7 +118,6 @@ C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.pdb
 C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\my-books\my-books\obj\Debug\net5.0\ref\my-books.dll
 C:\Users\Lenovo\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
-C:\Users\jfran\source\repos\my-books\my-books\obj\Debug\net5.0\my-books.csproj.AssemblyReference.cache
 C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
 C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.Azure.Services.AppAuthentication.dll
 C:\Users\jfran\source\repos\my-books\my-books\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
