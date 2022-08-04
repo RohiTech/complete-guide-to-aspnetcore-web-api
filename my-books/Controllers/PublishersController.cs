@@ -147,7 +147,7 @@ namespace my_books.Controllers
             }
         }*/
 
-        [HttpGet("get-publisher-by-id/{id}")]
+        /*[HttpGet("get-publisher-by-id/{id}")]
         public CustomActionResult GetPublisherById(int id)
         {
             // throw new Exception("This is an exception that will be handled by middleware");
@@ -182,9 +182,9 @@ namespace my_books.Controllers
 
                 //return NotFound();
             }
-        }
+        }*/
 
-        /*[HttpGet("get-publisher-by-id/{id}")]
+        [HttpGet("get-publisher-by-id/{id}")]
         public IActionResult GetPublisherById(int id)
         {
             var _response = _publishersService.GetPublisherById(id);
@@ -197,7 +197,7 @@ namespace my_books.Controllers
             {
                 return NotFound();
             }
-        }*/
+        }
 
         [HttpGet("get-publisher-books-with-authors/{id}")]
         public IActionResult GetPublisherData(int id)
